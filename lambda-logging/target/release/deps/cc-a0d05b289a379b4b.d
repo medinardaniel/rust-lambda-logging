@@ -1,0 +1,11 @@
+/workspaces/rust-lambda-logging/lambda-logging/target/release/deps/libcc-a0d05b289a379b4b.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/find_tools.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/command_helpers.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/tool.rs
+
+/workspaces/rust-lambda-logging/lambda-logging/target/release/deps/libcc-a0d05b289a379b4b.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/find_tools.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/command_helpers.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/tool.rs
+
+/workspaces/rust-lambda-logging/lambda-logging/target/release/deps/cc-a0d05b289a379b4b.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/find_tools.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/command_helpers.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/tool.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/windows/find_tools.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/command_helpers.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.88/src/tool.rs:

@@ -1,0 +1,10 @@
+/workspaces/rust-lambda-logging/lambda-logging/target/x86_64-unknown-linux-musl/release/deps/libthread_local-f5f6e1279e49e098.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/workspaces/rust-lambda-logging/lambda-logging/target/x86_64-unknown-linux-musl/release/deps/libthread_local-f5f6e1279e49e098.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/workspaces/rust-lambda-logging/lambda-logging/target/x86_64-unknown-linux-musl/release/deps/thread_local-f5f6e1279e49e098.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/cached.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/thread_id.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thread_local-1.1.8/src/unreachable.rs:
