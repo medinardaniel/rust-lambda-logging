@@ -1,4 +1,4 @@
-use lambda_runtime::{service_fn, Error};
+use lambda_runtime::{LambdaEvent, service_fn, Error};
 use serde_json::Value;
 use aws_sdk_xray::{Client as XRayClient};
 
@@ -8,7 +8,7 @@ async fn function_handler(event: LambdaEvent<Value>) -> Result<Value, Error> {
     let xray_client = XRayClient::new(&config);
 
     // Start an X-Ray segment
-    let trace_header_str = ctx.xray_trace_id.as_deref().unwrap_or_default();
+    let trace_header_str = context.xray_trace_id.as_deref().unwrap_or_default();
     xray_client.begin_segment("MyRustLambdaFunction", Some(trace_header_str), None).await?;
 
     log::info!("Processing event");
@@ -19,8 +19,10 @@ async fn function_handler(event: LambdaEvent<Value>) -> Result<Value, Error> {
 
     Ok(event)
 }
+
+#[tokio::main]
 async fn main() -> Result<(), Error> {
-    simple_logger::init_with_level(log::Level::Info).unwrap(); // Adjust the logging level as needed
+    simple_logger::init_with_level(log::Level::Info).unwrap();
     let func = service_fn(function_handler);
     lambda_runtime::run(func).await?;
     Ok(())
